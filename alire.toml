@@ -1,0 +1,11 @@
+name = "bare_gui"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Olivier Henley"]
+maintainers = ["Olivier Henley <olivier.henley@gmail.com>"]
+maintainers-logins = ["ohenley"]
+
+
+[[depends-on]]
+bare_boards = "0.1.0-dev"
